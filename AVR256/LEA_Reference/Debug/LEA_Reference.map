@@ -1,0 +1,579 @@
+Archive member included because of file (symbol)
+
+d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_exit.o)
+                              d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr35/crtusb82.o (exit)
+d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_copy_data.o)
+                              src/keyschedule.o (__do_copy_data)
+d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_clear_bss.o)
+                              src/main.o (__do_clear_bss)
+
+Discarded input sections
+
+ .bss           0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr35/crtusb82.o
+ .group         0x00000000        0x8 src/keyschedule.o
+ .text          0x00000000        0x0 src/keyschedule.o
+ .bss           0x00000000        0x0 src/keyschedule.o
+ .text.ROR2     0x00000000       0x6c src/keyschedule.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .text          0x00000000        0x0 src/main.o
+ .bss           0x00000000        0x0 src/main.o
+ .debug_macro   0x00000000      0x598 src/main.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .text          0x00000000        0x0 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .bss           0x00000000        0x0 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000      0x598 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x10 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000      0x1ad src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000      0x293 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x9e src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000      0xe59 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0xca src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000      0x139 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0xbd src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x34 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x18 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x6c src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x22 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000      0x16c src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x1c src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x35 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x51 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000      0x2ee src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x44 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x69 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x2c src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x10 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0xd4 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x40 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000      0x100 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000      0x1dd src/ASF/mega/boards/stk600/rcx_x/init.o
+ .bss           0x00000000        0x0 src/enc.o
+ .text          0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00010000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr35/crtusb82.o
+LOAD src/keyschedule.o
+LOAD src/main.o
+LOAD src/ASF/mega/boards/stk600/rcx_x/init.o
+LOAD src/enc.o
+START GROUP
+END GROUP
+LOAD d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a
+LOAD d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr35\libc.a
+LOAD d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1f7a
+ *(.vectors)
+ .vectors       0x00000000       0x74 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr35/crtusb82.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000074                . = ALIGN (0x2)
+                0x00000074                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000074        0x0 linker stubs
+ *(.trampolines*)
+                0x00000074                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000074                __ctors_start = .
+ *(.ctors)
+                0x00000074                __ctors_end = .
+                0x00000074                __dtors_start = .
+ *(.dtors)
+                0x00000074                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000074        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr35/crtusb82.o
+                0x00000074                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000074        0xc d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr35/crtusb82.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000080       0x16 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_copy_data.o)
+                0x00000080                __do_copy_data
+ .init4         0x00000096       0x10 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_clear_bss.o)
+                0x00000096                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000a6        0x8 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr35/crtusb82.o
+ *(.init9)
+ *(.text)
+ .text          0x000000ae        0x2 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr35/crtusb82.o
+                0x000000ae                __vector_22
+                0x000000ae                __vector_28
+                0x000000ae                __vector_1
+                0x000000ae                __vector_24
+                0x000000ae                __vector_12
+                0x000000ae                __bad_interrupt
+                0x000000ae                __vector_6
+                0x000000ae                __vector_3
+                0x000000ae                __vector_23
+                0x000000ae                __vector_25
+                0x000000ae                __vector_11
+                0x000000ae                __vector_13
+                0x000000ae                __vector_17
+                0x000000ae                __vector_19
+                0x000000ae                __vector_7
+                0x000000ae                __vector_27
+                0x000000ae                __vector_5
+                0x000000ae                __vector_4
+                0x000000ae                __vector_9
+                0x000000ae                __vector_2
+                0x000000ae                __vector_21
+                0x000000ae                __vector_15
+                0x000000ae                __vector_8
+                0x000000ae                __vector_26
+                0x000000ae                __vector_14
+                0x000000ae                __vector_10
+                0x000000ae                __vector_16
+                0x000000ae                __vector_18
+                0x000000ae                __vector_20
+ .text          0x000000b0     0x19d0 src/enc.o
+                0x000000b0                atmega_LEA_EncryptBlk256
+                0x00001a80                . = ALIGN (0x2)
+ *(.text.*)
+ .text.ROL2     0x00001a80       0x6c src/keyschedule.o
+                0x00001a80                ROL2
+ .text.atmega_LEA_Keyschedule_256
+                0x00001aec      0x46a src/keyschedule.o
+                0x00001aec                atmega_LEA_Keyschedule_256
+ .text.main     0x00001f56       0x1e src/main.o
+                0x00001f56                main
+ .text.board_init
+                0x00001f74        0x2 src/ASF/mega/boards/stk600/rcx_x/init.o
+                0x00001f74                board_init
+                0x00001f76                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001f76        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_exit.o)
+                0x00001f76                _exit
+                0x00001f76                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001f76        0x4 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001f7a                _etext = .
+
+.data           0x00800100       0x50 load address 0x00001f7a
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr35/crtusb82.o
+ .data          0x00800100        0x0 src/keyschedule.o
+ .data          0x00800100        0x0 src/main.o
+ .data          0x00800100        0x0 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .data          0x00800100        0x0 src/enc.o
+ .data          0x00800100        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_exit.o)
+ .data          0x00800100        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_copy_data.o)
+ .data          0x00800100        0x0 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr35\libgcc.a(_clear_bss.o)
+ *(.data*)
+ .data.K256     0x00800100       0x20 src/main.o
+ .data.X256     0x00800120       0x10 src/main.o
+ *(.rodata)
+ .rodata        0x00800130       0x20 src/keyschedule.o
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800150                . = ALIGN (0x2)
+                0x00800150                _edata = .
+                0x00800150                PROVIDE (__data_end, .)
+
+.bss            0x00800150      0x300
+                0x00800150                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.tmp_R256  0x00800150      0x300 src/main.o
+ *(COMMON)
+                0x00800450                PROVIDE (__bss_end, .)
+                0x00001f7a                __data_load_start = LOADADDR (.data)
+                0x00001fca                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800450        0x0
+                0x00800450                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800450                PROVIDE (__noinit_end, .)
+                0x00800450                _end = .
+                0x00800450                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab           0x00000000      0x6cc
+ *(.stab)
+ .stab          0x00000000      0x6cc d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr35/crtusb82.o
+
+.stabstr        0x00000000       0x97
+ *(.stabstr)
+ .stabstr       0x00000000       0x97 d:/program_windows/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr35/crtusb82.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x2f
+ *(.comment)
+ .comment       0x00000000       0x2f src/keyschedule.o
+                                 0x30 (size before relaxing)
+ .comment       0x00000000       0x30 src/main.o
+ .comment       0x00000000       0x30 src/ASF/mega/boards/stk600/rcx_x/init.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x90
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 src/keyschedule.o
+ .debug_aranges
+                0x00000030       0x20 src/main.o
+ .debug_aranges
+                0x00000050       0x20 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_aranges
+                0x00000070       0x20 src/enc.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000      0x5c5
+ *(.debug_info)
+ .debug_info    0x00000000      0x347 src/keyschedule.o
+ .debug_info    0x00000347      0x187 src/main.o
+ .debug_info    0x000004ce       0x7c src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_info    0x0000054a       0x7b src/enc.o
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0x246
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x10b src/keyschedule.o
+ .debug_abbrev  0x0000010b       0xe0 src/main.o
+ .debug_abbrev  0x000001eb       0x47 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_abbrev  0x00000232       0x14 src/enc.o
+
+.debug_line     0x00000000     0x565c
+ *(.debug_line)
+ .debug_line    0x00000000      0x1ad src/keyschedule.o
+ .debug_line    0x000001ad      0x38a src/main.o
+ .debug_line    0x00000537      0x381 src/ASF/mega/boards/stk600/rcx_x/init.o
+ .debug_line    0x000008b8     0x4da4 src/enc.o
+
+.debug_frame    0x00000000      0x154
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x10c src/keyschedule.o
+ .debug_frame   0x0000010c       0x24 src/main.o
+ .debug_frame   0x00000130       0x24 src/ASF/mega/boards/stk600/rcx_x/init.o
+
+.debug_str      0x00000000     0xaf27
+ *(.debug_str)
+ .debug_str     0x00000000     0x18ab src/keyschedule.o
+                               0x18d1 (size before relaxing)
+ .debug_str     0x000018ab     0x9643 src/main.o
+                               0xb08b (size before relaxing)
+ .debug_str     0x0000aeee       0x39 src/ASF/mega/boards/stk600/rcx_x/init.o
+                               0xb041 (size before relaxing)
+
+.debug_loc      0x00000000      0x30e
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x30e src/keyschedule.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000       0x40
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x20 src/keyschedule.o
+ .debug_ranges  0x00000020       0x10 src/main.o
+ .debug_ranges  0x00000030       0x10 src/ASF/mega/boards/stk600/rcx_x/init.o
+
+.debug_macro    0x00000000     0x28f8
+ *(.debug_macro)
+ .debug_macro   0x00000000       0x15 src/keyschedule.o
+ .debug_macro   0x00000015      0x598 src/keyschedule.o
+ .debug_macro   0x000005ad      0x151 src/main.o
+ .debug_macro   0x000006fe       0x10 src/main.o
+ .debug_macro   0x0000070e      0x1ad src/main.o
+ .debug_macro   0x000008bb      0x293 src/main.o
+ .debug_macro   0x00000b4e       0x9e src/main.o
+ .debug_macro   0x00000bec      0xe59 src/main.o
+ .debug_macro   0x00001a45       0xca src/main.o
+ .debug_macro   0x00001b0f      0x139 src/main.o
+ .debug_macro   0x00001c48       0xbd src/main.o
+ .debug_macro   0x00001d05       0x34 src/main.o
+ .debug_macro   0x00001d39       0x18 src/main.o
+ .debug_macro   0x00001d51       0x6c src/main.o
+ .debug_macro   0x00001dbd       0x22 src/main.o
+ .debug_macro   0x00001ddf      0x16c src/main.o
+ .debug_macro   0x00001f4b       0x1c src/main.o
+ .debug_macro   0x00001f67       0x35 src/main.o
+ .debug_macro   0x00001f9c       0x51 src/main.o
+ .debug_macro   0x00001fed      0x2ee src/main.o
+ .debug_macro   0x000022db       0x44 src/main.o
+ .debug_macro   0x0000231f       0x69 src/main.o
+ .debug_macro   0x00002388       0x2c src/main.o
+ .debug_macro   0x000023b4       0x10 src/main.o
+ .debug_macro   0x000023c4       0xd4 src/main.o
+ .debug_macro   0x00002498       0x40 src/main.o
+ .debug_macro   0x000024d8      0x100 src/main.o
+ .debug_macro   0x000025d8      0x1dd src/main.o
+ .debug_macro   0x000027b5      0x143 src/ASF/mega/boards/stk600/rcx_x/init.o
+OUTPUT(LEA_Reference.elf elf32-avr)
+LOAD linker stubs
